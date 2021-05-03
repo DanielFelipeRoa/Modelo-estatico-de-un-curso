@@ -1,9 +1,9 @@
 # Modelo estático de un curso
 
 # Integrantes
-Daniel Felipe Camargo Roa - 20172020078
-Cristian Daniel Meneses Ramirez - 20182020071
-Lorena Damián Cárdenas - 20182020060
+1) Daniel Felipe Camargo Roa - 20172020078
+2) Cristian Daniel Meneses Ramirez - 20182020071
+3) Lorena Damián Cárdenas - 20182020060
 
 # ¿Qué es un diagrama de clases?
 
